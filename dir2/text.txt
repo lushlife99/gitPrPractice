@@ -1,1 +1,3 @@
-init
+branch2 update text.
+
+main branch is changed.
